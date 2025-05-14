@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713631354 source:e:\codeblocksfikles\display\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+
